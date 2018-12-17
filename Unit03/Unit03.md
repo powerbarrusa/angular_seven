@@ -17,4 +17,4 @@ Here's how we hook everything up to get the router working:
 
 ...... and .... it just works ! (make sure your html in nav looks like it should... see [Unit02](../Unit02/Unit02.md) ) for reference.
 
-![](routes_working.gif)
+![](routes_working_now.gif)
