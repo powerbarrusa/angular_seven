@@ -35,3 +35,7 @@ ng g c nav
 ```
 
 (the second one is a shortcut)
+
+now look at your folder structure:
+
+![](nav_is_new.png)
