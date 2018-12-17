@@ -27,7 +27,7 @@ now look at your folder structure:
 Next, I'll create a home page:
 
 ```
-ng generate home
+ng generate component home
 ```
 
 
