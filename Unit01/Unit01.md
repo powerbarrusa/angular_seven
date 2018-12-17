@@ -32,7 +32,9 @@ And then you can add something like this to the view to wire up a button:
 
 
 In the example above, the parentheses around the (click) signify that this is an action that will travel "UP" ( or "DOWN") to the component... however you want to think about it.
-In other words, the data flow is going from view to component (controller).
+In other words, the data flow is going from view to component.
+
+In an MVC context, you can think of the component as the 'controller', and the html file as the 'view'. 
 
 
 Wire up your button as shown and confirm that you have a working button.  When you do, congratulations!
