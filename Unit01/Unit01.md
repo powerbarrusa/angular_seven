@@ -44,11 +44,11 @@ Wire up your button as shown and confirm that you have a working button.  When y
 
 Managing state is something that we can do in React with stateful components that have constructors, etc. Here's how this works in Angular with localized state as it relates to components.
 
-the component:
+### the component
 ![](counterControl.png)
 
 
-the view:
+## the view:
 ![](counterControl.png)
 
 Wire up your counter and you should have something like this:
