@@ -1,4 +1,4 @@
-# Unit 02:  Creating more components
+# Unit 02:  Building more pages
 
 ## Using the scaffolder to create more components
 
@@ -53,4 +53,21 @@ ng generate component essos
 
 By examining all of these generated components, you can see that they all share the same structure.
 
-Now that we've
+Now that we've got a ton of pages, let's go back to our app.component.html page.
+
+
+## inserting the nav component
+
+The app.commponent.html page can be used as a container to pull in all of the other pages.
+This is why it has, by default, the
+
+```
+<router-outlet></router-outlet>
+ ```
+tags are there.
+
+router outlet is a component that will pull in whichever page has been served up by our router, which we will configure soon.
+
+Since the *nav* will exist on every page, it goes directly on the app.component.html page.
+
+When we click on a link in the nav, whichever page is clicked on should appear in the <router-outlet> component.

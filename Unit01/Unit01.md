@@ -54,3 +54,6 @@ Managing state is something that we can do in React with stateful components tha
 Wire up your counter and you should have something like this:
 
 ![](counter.gif)
+
+
+When you're ready, you are free to move on to [unit two] (../Unit02/Unit02.md)
