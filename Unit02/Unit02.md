@@ -88,10 +88,15 @@ Ok , so now that we have style for a nav component, our nav will simply look lik
 
 ![](nav_html.png)
 
+And our *src/app/app.component.html* should look like this:
+
+![](app_component.png)
+
+
 And our page should look like this:
 
 ![](got_links.gif)
 
 If you want that same banner, you can get it [here](banner.jpg)
 
-proceed to [Unit 3](../Unit03/Unit03.md) , home slice ! There will will learn about how easy it is to implement routing ! 
+proceed to [Unit 3](../Unit03/Unit03.md) , home slice ! There will will learn about how easy it is to implement routing !
