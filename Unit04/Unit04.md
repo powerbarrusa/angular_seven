@@ -33,4 +33,9 @@ Here is the regions service fresh from the generator:
 
 If you look closely at this service, you'll see that it's very similar to a component !
 
-It's got many of the same elements. 
+It's got many of the same elements.
+
+We will be using this repo:
+https://github.com/Nmuta/got_angular
+
+To study services and modules in this next lesson.
